@@ -3,7 +3,7 @@ Make a python script keras_transpiler which loads a keras model, goes through it
 
 The weights of the model must be hardcoded in the C
 
-#Requirements
+# Requirements
 ```sh
   !pip install -r requirements.txt
 ```
